@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnuragSharma122/AnuragSharma122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node Js, React Js, Express Js, Solidity, Django...
@@ -10,4 +7,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for internships in software developer or web developer role ...
 - 💬 Ask me about Java, Javascript, Node Js, React Js, Python, SQL ...
 - 😄 Hobbies: Watching movies, Playing video games, Workout ...
--->
