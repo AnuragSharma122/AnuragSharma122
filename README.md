@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Anurag Sharma
 
 - 🔭 I’m currently working on Node Js, React Js, Express Js, Solidity, Django...
 - 🌱 I’m currently learning Blockchain development, Competitive programming...
